@@ -8,7 +8,7 @@ This plugin prevents WooCommerce Google Analytics integration from tracking WooC
     git clone https://github.com/usourcejacob/woocommerce-ga-patch.git
 or
 
-Download this repository as a .zip file and upload it to your WordPress site.
+Download this repository as a .zip file and upload it to your WordPress site using the plugin manager of via FTP/SFTP.
 
 ## Notes
 Use this plugin only when you are using WooCommerce Google Analytics Integration : https://wordpress.org/plugins/woocommerce-google-analytics-integration/
