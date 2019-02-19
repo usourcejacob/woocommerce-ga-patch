@@ -3,7 +3,8 @@
 This plugin prevents WooCommerce Google Analytics integration from tracking WooCommerce pages twice when using a 3rd party or manual Google Analytics installation across the site. 
 
 ## Installation
-
+    
+    mkdir google-analytics-patch-for-woocommerce && cd google-analytics-patch-for-woocommerce
     git clone https://github.com/usourcejacob/woocommerce-ga-patch.git
 or
 
