@@ -11,7 +11,7 @@ or
 Download this repository as a .zip file and upload it to your WordPress site using the plugin manager of via FTP/SFTP.
 
 Alternatively, you can implement this patch without using this plugins. Modify your theme's  _functions.php_ and add the following code
-    ```php
+    ``` php
     function fix_double_google_analytics () {
 	if ( ! is_admin() && class_exists( 'WC_Google_Analytics_JS' ) ) {
 		// Remove analytics.js script from WooCommerce Google Analytics Integration.
